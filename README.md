@@ -3,4 +3,4 @@
 
 
 
-![Java-Tutorials](https://socialify.git.ci/maqsoodhussain/java_tutorial/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
+![Java-Tutorials](https://socialify.git.ci/maqsoodhussain/java_tutorial/image?description=1&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Light)
